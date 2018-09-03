@@ -1,2 +1,2 @@
 # automating-aws-with-python
-repo for automating aws with python course
+repo for automating aws with python course by acg
